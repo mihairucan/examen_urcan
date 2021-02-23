@@ -5,7 +5,6 @@ public class examen_urcan_entorns {
 	public static void main(String[] args) {
 		printOne();
 		printOne();
-		printTwo();
 
 	}
 	
@@ -13,10 +12,7 @@ public class examen_urcan_entorns {
 		System.out.println("Hello World");
 	}
 	
-	public static void printTwo() {
-		printOne();
-		printOne();
-	}
+
 	
 
 }
